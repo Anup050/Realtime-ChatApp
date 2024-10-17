@@ -5,8 +5,10 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 ## Usage
 ```
-npm install
-npm run dev
+cd Realtime-ChatApp
+npm init -y
+npm install express socket.io
+node server.js
 
-Go to localhost:3000
+Go to localhost:3003
 ```
